@@ -27,3 +27,6 @@ How to use?
         console.log(answers);
     });
     
+    
+![alt text](screenshot.png "Console Output")
+    
