@@ -8,7 +8,7 @@ It is a small utility node module for asking multiple command line questions on 
 Install
 ------
 
-    npm install --save-dev ask-questions
+    npm install --save ask-questions
     
 
 How to use?
