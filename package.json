@@ -1,0 +1,26 @@
+{
+  "name": "ask-questions",
+  "version": "1.0.0",
+  "description": "A utility small function for asking multiple questions based on nodejs readline module ",
+  "main": "ask-questions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/samirkumardas/ask-questions.git"
+  },
+  "keywords": [
+    "readline",
+    "cli-questions",
+    "readline-question",
+    "readline-question",
+    "interactive-question"
+  ],
+  "author": "Samir Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samirkumardas/ask-questions/issues"
+  },
+  "homepage": "https://github.com/samirkumardas/ask-questions#readme"
+}
