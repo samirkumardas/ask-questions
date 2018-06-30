@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/samirkumardas/ask-questions.git"
+    "url": "git@github.com:samirkumardas/ask-questions.git"
   },
   "keywords": [
     "readline",
