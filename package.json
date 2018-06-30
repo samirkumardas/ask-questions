@@ -1,7 +1,7 @@
 {
   "name": "ask-questions",
   "version": "1.0.0",
-  "description": "A utility small function for asking multiple questions based on nodejs readline module",
+  "description": "A small utility function for asking multiple command line questions",
   "main": "ask-questions.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
